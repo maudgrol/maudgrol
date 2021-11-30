@@ -5,7 +5,7 @@
 
 - 👋 Find out more about me on my [website](https://www.maudgrol.com)
 
-- 👨‍💻 You can view all my projects on [Github](https://github.com/maudgrol?tab=repositories)
+- 👨‍💻 You can view my projects on [Github](https://github.com/maudgrol?tab=repositories)
 
 - 📄 Know about my work experience [www.maudgrol.com/cv/](https://www.maudgrol.com/cv/)
 
