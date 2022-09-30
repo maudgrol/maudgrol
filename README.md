@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Maud! <img src="https://github.com/maudgrol/maudgrol/blob/main/wave.gif" width="30px"></h1>
 <h3 align="center">I'm a data scientist living in Berlin</h3>
 
-- 🔭 My latest project is [DeepDIVA](https://github.com/maudgrol/deepdiva)
+- 🔭 My latest personal project is [DeepDIVA](https://github.com/maudgrol/deepdiva)
 
 - 👋 Find out more about me on my [website](https://www.maudgrol.com)
 
