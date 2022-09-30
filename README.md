@@ -7,8 +7,6 @@
 
 - 👨‍💻 You can view my projects on [Github](https://github.com/maudgrol?tab=repositories)
 
-- 📄 Know about my work experience [www.maudgrol.com/cv/](https://www.maudgrol.com/cv/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maudgrol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maudgrol" height="30" width="40" /></a>
